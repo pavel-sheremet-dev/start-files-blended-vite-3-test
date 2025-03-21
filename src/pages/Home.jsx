@@ -23,6 +23,8 @@ const Home = () => {
     asyncWrapper();
   }, []);
 
+  // test
+
   return (
     <Section>
       <Container>
